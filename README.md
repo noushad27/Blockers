@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sk Noushad Ali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sheikh Noushad </h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nousad27&label=Profile%20views&color=0e75b6&style=flat" alt="nousad27" /> </p>
 
